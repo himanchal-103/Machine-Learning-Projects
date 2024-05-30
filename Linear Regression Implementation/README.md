@@ -29,5 +29,15 @@ A cost function is defined as a function that maps an event or values of one or 
 
 **Cost(C)= \sum_i$ $( y_i - (m.x_i + b))^2**
 
-\[ \text{Cost}(C) = \sum_{i} \left( y_i - (m \cdot x_i + b) \right)^2 \]
+
+## Gradient Descent
+
+Gradient descent is an optimization algorithm used to find the values of parameters (coefficients) of a function (f) that minimizes a cost function (cost). Gradient descent is best used when the parameters cannot be calculated analytically (e.g. using linear algebra) and must be searched for by an optimization algorithm.
+
+## Learning Rate
+
+How big the steps gradient descent takes into the direction of the local minimum are determined by the learning rate, which figures out how fast or slow we will move towards the optimal weights.
+
+![gradient-descent-learning-rate-7052](https://github.com/himanchal-103/Machine-Learning-Projects/assets/133697230/5c3bd04c-04c0-489b-8d63-da3e37575e0a)
+
 
