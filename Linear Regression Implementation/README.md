@@ -28,3 +28,6 @@ where m, m1, m2, m3 are called the parameters and c is the intercept of the line
 A cost function is defined as a function that maps an event or values of one or more variables onto a real number intuitively representing some “cost” associated with the event. In Linear Regression the objective is to find a line of best fit for some given inputs, or X values, and any number of Y values, or outputs.
 
 **Cost(C)= \sum_i$ $( y_i - (m.x_i + b))^2**
+
+\[ \text{Cost}(C) = \sum_{i} \left( y_i - (m \cdot x_i + b) \right)^2 \]
+
