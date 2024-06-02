@@ -4,7 +4,9 @@
 The aim of this project is to build predictive models to determine the survival of passengers aboard the Titanic using various machine learning algorithms. We will evaluate the performance of these models based on their accuracy and other classification metrics.
 
 ## Dataset
-Dataset for Titanic Survival Prediction contains following features:
+Dataset for Titanic Survival Prediction contains 891 records for training and 418 records for testing.
+
+Features:
 
 1. Survival	(0 = No, 1 = Yes)
 2. Pclass	(Ticket class	1 = 1st, 2 = 2nd, 3 = 3rd)
