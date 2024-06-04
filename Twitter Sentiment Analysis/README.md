@@ -31,10 +31,10 @@ Features:
 
 3. Machine Learning Pipelines: Two pipelines are created to explore different feature extraction and classification techniques:
 
-  1. Pipeline 1 (TF-IDF Vectorizer + Random Forest):
+     Pipeline 1 (TF-IDF Vectorizer + Random Forest):
     - TF-IDF Vectorizer: This vectorizer captures the importance of words relative to the entire corpus, potentially highlighting sentiment-specific terms.
     - Random Forest: This ensemble method combines multiple decision trees, offering robustness and good performance on text classification tasks.
 
-  2. Pipeline 2 (CountVectorizer + Logistic Regression):
+     Pipeline 2 (CountVectorizer + Logistic Regression):
     - CountVectorizer: This vectorizer represents text as word counts, providing a simpler feature representation.
     - Logistic Regression: This linear model offers interpretability and can be effective for sentiment classification.
