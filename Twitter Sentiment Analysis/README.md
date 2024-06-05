@@ -1,7 +1,7 @@
 # TWITTER SENTIMENT ANALYSIS
 
 ## Aim
-The aim of the project is to classify the sentiment of tweets using Natural Language Processing (NLP) techniques. In simpler terms, the project aims to build a model that can tell you whether a tweet is expressing a positive, negative, neutral or irrelevant opinion.
+The project aims to classify the sentiment of tweets using Natural Language Processing (NLP) techniques. In simpler terms, the project aims to build a model that can tell you whether a tweet is expressing a positive, negative, neutral or irrelevant opinion.
 
 ## Dataset
 The dataset for Twitter Sentiment Analysis contains 74682 records for training and 1000 records for testing or validation.
